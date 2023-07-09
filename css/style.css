@@ -137,6 +137,7 @@ input[type=number] {
 .rupee-link {
     font-size: 37px;
     text-decoration: none;
+    padding-top: 20px;
 }
 
 .temp-link:hover {
@@ -157,7 +158,7 @@ input[type=number] {
     height: 100px;
     color: white;
     background-color: rgb(24, 58, 59);
-    margin-top: 250px;
+    margin-top: 230px;
     margin-bottom: 0;
     position: fixed;
 }
